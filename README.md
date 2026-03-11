@@ -1,10 +1,10 @@
-# report.py
+# Report.py
 
-## Description
+##  Description
 
 Ce script permet d'afficher un rapoort sur les notes d'un étudiant
 
-## Fonctionnalités
+##  Fonctionnalités
 
 - calcul de la moyenne
 - calcul delta
